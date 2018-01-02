@@ -1,0 +1,103 @@
+
+gametwo.pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+item1
+  rotate: false
+  xy: 639, 368
+  size: 289, 289
+  orig: 289, 289
+  offset: 0, 0
+  index: -1
+item10
+  rotate: false
+  xy: 2, 639
+  size: 335, 335
+  orig: 335, 335
+  offset: 0, 0
+  index: -1
+item11
+  rotate: false
+  xy: 2, 2
+  size: 309, 309
+  orig: 309, 309
+  offset: 0, 0
+  index: -1
+item2
+  rotate: false
+  xy: 339, 359
+  size: 298, 298
+  orig: 298, 298
+  offset: 0, 0
+  index: -1
+item3
+  rotate: false
+  xy: 696, 81
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+item5
+  rotate: false
+  xy: 656, 673
+  size: 301, 301
+  orig: 301, 301
+  offset: 0, 0
+  index: -1
+item7
+  rotate: false
+  xy: 2, 313
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+item8
+  rotate: false
+  xy: 339, 659
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+item9
+  rotate: false
+  xy: 328, 67
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 620, 67
+  size: 74, 290
+  orig: 74, 290
+  offset: 0, 0
+  index: -1
+
+gametwo.pack2.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+item0
+  rotate: false
+  xy: 284, 21
+  size: 261, 261
+  orig: 261, 261
+  offset: 0, 0
+  index: -1
+item4
+  rotate: false
+  xy: 2, 2
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+item6
+  rotate: false
+  xy: 547, 31
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
